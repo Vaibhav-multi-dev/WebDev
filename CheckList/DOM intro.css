@@ -1,0 +1,8 @@
+.done{
+	color: rgba(169, 201, 17, 0.4);
+	text-decoration: line-through;
+}
+
+.second{
+	font-style: italic;
+}
