@@ -1,0 +1,27 @@
+.shorr {
+	background-color: rgba(100, 10, 21, 0.4);
+}
+
+h3{
+	color: rgb(0, 145, 8);
+}
+
+#waste {
+	color: rgba(100, 110, 250, 0.9);
+	text-transform: capitalize;
+	text-decoration: underline dotted rgba(250, 10, 90, 0.6);
+	font-weight: bold;
+	font-size: 150%;
+	font-style: italic;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 20px;
+}
+
+#fun {
+	float: right;
+}
+
+footer {
+	clear: right;
+	text-align: center;
+}

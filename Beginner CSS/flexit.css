@@ -1,0 +1,32 @@
+.dabba {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: flex-start;
+}
+
+body{
+	margin: 0px;
+}
+
+h2{
+	color: orange;
+	border-right: 4px solid gold;
+	border-bottom: 4px solid gold;
+	width: 300px;
+	text-align: center;
+	box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.6);
+	margin-bottom: 40px;
+}
+
+img {
+	width: 550px;
+	height: 400px;
+	margin: 5px;
+	transition: 2s all ease-in-out;
+
+}
+
+img:hover{
+	transform: scale(1.3) rotate(720deg);
+}

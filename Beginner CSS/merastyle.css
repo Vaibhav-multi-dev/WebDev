@@ -1,0 +1,34 @@
+body{
+	background-image: url(b5.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+p {
+	color: grey;
+	font-size: 20px;
+}
+
+h3 {
+	color: orange;
+	font-size: 2em;
+	border: 4px dotted rgba(30, 140, 200, 0.6);
+	text-align: center;
+	cursor: crosshair;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.yolo{
+	border: 4px dashed orange;
+	display: inline-block;
+	margin: 3px 6px 3px 6px;
+	padding: 7px 9px;
+	width: 80px;
+	height: 50px;
+}

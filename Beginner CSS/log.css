@@ -1,0 +1,50 @@
+li{
+	display: inline-block;
+	list-style: none;
+}
+
+*{
+	text-align: right; 
+}
+
+body{
+	background-image: url(back.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.el1:last-child{
+	border: 5px dashed rgba(100, 0, 90, 0.3);
+	color: cyan;
+	background-color: rgba(100, 0, 150, 0.7);
+	text-align: center;
+}
+
+.dif{
+	color:rgb(255,230,133);
+}
+
+#para p{
+	border: thick dotted red;
+	color: #4B0082;
+	background-color: #FFF0F5;
+	text-align: center;
+}
+
+h3, p{
+	color: #FF4500;
+}
+
+h3 + p:hover{
+	text-align: center;
+}
+
+h3 p{
+	color: white;
+}
+
+h4 > p{
+	color:white;
+}
